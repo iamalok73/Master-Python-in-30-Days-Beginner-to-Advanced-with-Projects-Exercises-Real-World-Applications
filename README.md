@@ -1,2 +1,0 @@
-# Master-Python-in-30-Days-Beginner-to-Advanced-with-Projects-Exercises-Real-World-Applications
-# 🐍 Python in 30 Days  🚀 A complete Python learning roadmap to go from beginner to advanced in 30 days.  • Covers basics to advanced concepts   • Includes OOP, APIs, and real-world tools   • Hands-on projects for practice   • Helps build problem-solving skills   • Makes you job-ready    📧 Email: iamalok730@gmail.com
